@@ -4,7 +4,7 @@
 # TEST_MODE - If set, build a candidate image and test it
 OS=$1
 VERSION=$2
-
+#rwerqer
 # Array of all versions of NodeJS
 declare -a VERSIONS=(0.10)
 
